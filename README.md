@@ -3,5 +3,8 @@ The following are the configurations I use to customize my Arch Linux system on 
 ![image](https://github.com/faitinchan/My_Arch_Linux_Configuration/blob/main/PXL_20250222_025642750.MP~2.jpg)
 ![image](https://github.com/faitinchan/My_Arch_Linux_Configuration/blob/main/PXL_20250222_025726071.MP~2.jpg)
 Remark: Both of the lock screen and desktop wallpapers are A.I. generated.
+## Hypr
+### Hypridle
+[hypridle.conf](https://github.com/faitinchan/My_Arch_Linux_Configuration/blob/main/hypr/hypridle.conf)
 ## Kitty Terminal
 [kitty.conf](https://github.com/faitinchan/My_Arch_Linux_Configuration/blob/main/kitty/kitty.conf)
