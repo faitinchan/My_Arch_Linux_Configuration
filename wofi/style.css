@@ -1,0 +1,35 @@
+* {
+    border: none;
+}
+
+#inner-box {
+    margin: 5px;
+    background-color: transparent;
+}
+
+window {
+    font-family: SourceCodeVF;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(34, 139, 34, 1.0);
+}
+
+#entry:selected {
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(34, 139, 34, 1.0);
+    border: 1px solid rgba(34, 139, 34, 1.0);
+}
+
+#text:selected {
+    color: rgba(34, 139, 34, 1.0);
+}
+
+#input {
+    display: none;
+    margin: -1000px 5px;
+}
+
+#expander-box {
+    background-color: transparent;
+    color: rgba(34, 139, 34, 1.0);
+}
